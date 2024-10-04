@@ -6,6 +6,9 @@ Tugas 2![Tugas2](https://github.com/user-attachments/assets/0751f812-c3a5-45f8-a
 Tugas 3![Tugas3](https://github.com/user-attachments/assets/dfeb96ab-b2c9-4b5d-a4a1-fed89739fba0)
 
 
+
+
+
 GET berguna untuk mengambil data dari server
 POST berguna untuk mengirim data ke server untuk memperbarui data
 DELET berguna untuk menghapus data dari sumber daya yang ada di server
